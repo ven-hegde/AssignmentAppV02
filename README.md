@@ -12,7 +12,8 @@ Application includes following components.
 - Logout
 - Error Displaying
 
-Application Allows the User to login and logout and filter the restaurants based on the Alphabetical order, rating order. User can also search for the nrestaurants by name or locality or address.
+Application Allows the User to login and logout and filter the restaurants based on the Alphabetical order, rating order. User can also search for the restaurants by name or locality or address.
+
 
 ### Prerequisites to run the project
 ```
