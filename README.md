@@ -74,5 +74,5 @@ module.exports = {
   ]
 }
 ```
-4. run command npm installat project rootdirectory.
+4. run command npm install at project root directory.
 5. To start the server - npm start
