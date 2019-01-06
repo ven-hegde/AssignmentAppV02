@@ -1,4 +1,4 @@
-# AssignmentAppV02
+# Restaurant Finder
 Assignment Appliction on Yelp dataset.
 
 ### About
